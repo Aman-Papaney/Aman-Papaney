@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aman Papaney</h1>
 <h3 align="center">A passionate Backend developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aman-papaney&label=Profile%20views&color=0e75b6&style=flat" alt="aman-papaney" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=aman-papaney&label=Profile%20views&color=0e75b6&style=flat" alt="aman-papaney" /> </p>
 
 - 🔭 I’m currently working on [Video Streaming Webapp](https://github.com/Aman-Papaney/Video-Streaming)
 
