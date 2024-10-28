@@ -4,7 +4,7 @@ I'm Aman Papaney 😉, backend developer from India.
 
 <div>
 <a href="mailto: amanpapaney2003@gmail.com">
-<img src="https://img.shields.io/badge/-amanpapaney2003%40gamil.com-7B83EB?&style=for-the-badge&logo=Gmail&logoColor=white" ></a>  <a href="https://www.linkedin.com/in/aman_papaney/"><img src="https://img.shields.io/badge/-aman_papaney-7B83EB?&style=for-the-badge&logo=linkedin&logoColor=white" ></a>  
+<img src="https://img.shields.io/badge/-amanpapaney2003%40gamil.com-E84134?&style=for-the-badge&logo=Gmail&logoColor=white" ></a>  <a href="https://www.linkedin.com/in/aman_papaney/"><img src="https://img.shields.io/badge/-aman_papaney-0A66C2?&style=for-the-badge&logo=linkedin&logoColor=white" ></a>  
 </div>
 
 
