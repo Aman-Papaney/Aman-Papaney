@@ -9,7 +9,6 @@ I'm Aman Papaney 😉, backend developer from India.
 
 
 - 💼 I am doing <strong>B. Tech. in Computer Science</strong>.
-- 🔭 I’m working on <strong>Video Streaming Web App</strong>.
 
 <p align="center"> 
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="60" height="60"/> </a> 
