@@ -1,6 +1,6 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> <span> Hey, Nice to see you. </span> </h1>
 
-I'm Aman Papaney 😉, backend developer from India. 
+I'm Aman Papaney 😉, Software Developer from India. 
 
 <div>
 <a href="mailto: amanpapaney2003@gmail.com">
